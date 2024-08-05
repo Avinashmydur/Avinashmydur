@@ -4,7 +4,7 @@ This is Avinash's first Angular mini project, created as part of learning Angula
 
 ## Overview
 
-As a recent MSC Computer Science graduate, Avinash is venturing into the world of full-stack development. This project is an initial attempt to build a web application using Angular for the frontend. It serves as a learning experience, and Avinash acknowledges that it requires further improvements.
+As a recent MSC Computer Science post graduate, Avinash is venturing into the world of full-stack development. This project is an initial attempt to build a web application using Angular for the frontend. It serves as a learning experience, and Avinash acknowledges that it requires further improvements.
 
 ## Project Details
 Angular 
